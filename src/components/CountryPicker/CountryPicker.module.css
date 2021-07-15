@@ -1,0 +1,10 @@
+.formControl {
+  width: 30%;
+  margin-bottom: 30px !important;
+  background-color: rgb(47, 255, 238);
+  box-shadow: 10px 10px 20px grey;
+}
+.formControl:hover{
+  background-color:rgb(84, 241, 22);
+  box-shadow: 10px 10px 20px grey;
+}
